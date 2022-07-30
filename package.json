@@ -1,0 +1,14 @@
+{
+  "name": "asincronismo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "gcallback": "node src/callback/challenge.js"
+  },
+  "author": "Nicolas Gutierrez Orjuela",
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
